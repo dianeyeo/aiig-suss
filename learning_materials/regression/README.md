@@ -79,7 +79,10 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 **Windows:**
-```
+```bash
+py -m virtualenv .venv
+source .venv/Scripts/activate
+pip install -r requirements.txt
 ```
 
 Getting Started
