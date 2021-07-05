@@ -1,4 +1,4 @@
-Regression
+SUP-3: Regression
 ==============================
 
 Project Repo containing code for AI4I [SUP-3: Regression module](https://learn.aisingapore.org/courses/ai-for-industry-part-2/lessons/sup-3-regression/).

@@ -1,4 +1,4 @@
-classification
+SUP-4: Classification
 ==============================
 
 Project Repo containing code for [SUP-4: Classification](https://learn.aisingapore.org/courses/ai-for-industry-part-2/lessons/sup-4-classification/).
